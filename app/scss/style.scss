@@ -16,6 +16,9 @@
 
     .description {
       color: $dark_grayish_magenta;
+      p {
+        width: 30rem;
+      }
     }
   }
 
@@ -44,12 +47,12 @@
         border-radius: 0.5rem;
       }
 
-      &_1 {
-        // margin-right: 10em;
+      &_2 {
+        margin-left: 4rem;
       }
 
-      &_2 {
-        // margin-right: 5rem;
+      &_3 {
+        margin-left: 8rem;
       }
 
       .star {
